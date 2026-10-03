@@ -8,18 +8,6 @@ I like building things from scratch, figuring out how they work, and turning ide
 
 ---
 
-## `>_ currently working on`
-
-### ✍️ NovFic
-
-I'm working towards building a platform focused on **writers and readers**.
-
-The idea is to combine **writing, organization, publishing, and reading** into one platform - taking inspiration from tools like **Scrivener** and **Obsidian**, while building the system from scratch.
-
-**Stack:** `.NET` · `ASP.NET Core` · `Web API` · `SQL Server` · `JavaScript`
-
----
-
 ## `>_ what I use`
 
 **Languages**
